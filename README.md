@@ -3,3 +3,4 @@
 3. the other txt files that aren't blog posts were downloaded from project gutenberg
 4. To run the web app, run web_app.py in VScode and follow the link to local host provided.
 
+use_case.png is the image file showing a use case diagram for the web app.
